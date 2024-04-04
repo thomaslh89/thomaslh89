@@ -3,7 +3,7 @@
 After several years as an independent in various entrepreneurial ventures, I have decided to embark on a career change into development. Following training at Le Reacteur, I am currently seeking a 6-month internship.
 
 ## 💫 Little Bit More About Me
-<p>📫 How to reach me? thomas@lehebel.com</p>
+<p>📫 How to reach me ? thomas@lehebel.com</p>
 <p>🤖 All of my projects are available at <a href="https://www.lehebel.com">Portfolio</a></p>
 
 ## 💻 Skills
@@ -18,6 +18,8 @@ After several years as an independent in various entrepreneurial ventures, I hav
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/notion%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/yarn%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 👥 Connect With Me
