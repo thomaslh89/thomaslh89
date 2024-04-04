@@ -32,7 +32,7 @@ After several years as an independent in various entrepreneurial ventures, I hav
 
 ## 👥 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/thomas-le-h%C3%A9bel-1b566585"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="www.linkedin.com/in/thomas-le-hébel-1b566585"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 
