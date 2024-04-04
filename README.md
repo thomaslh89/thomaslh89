@@ -2,7 +2,7 @@
 
 After several years as an independent in various entrepreneurial ventures, I have decided to embark on a career change into development. Following training at Le Reacteur, I am currently seeking a 6-month internship.
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>📫 How to reach me? thomas@lehebel.com</p>
 <p>🤖 All of my projects are available at <a href="https://www.lehebel.com">Portfolio</a></p>
 
